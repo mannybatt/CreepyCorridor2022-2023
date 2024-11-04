@@ -1,6 +1,6 @@
 # Creepy Corridor Halloween Walk Through
 
-These four Arduino files are the complete backbone for my 2022 Haunted Hallway Walk Through attraction. The entire project ran off of four ESP8266 microcontrollers that was in charge of detecting people and activated various components of the hallway. 
+These five files are the complete backbone for my 2023 Haunted Hallway Walkthrough attraction! The entire project runs off of five ESP8266 microcontrollers tasked with detecting people and setting off various customized effects. 
 <br />
 A video of the Walkthrough can be found here!<br>
 <a href="https://www.youtube.com/embed/7BNbQcme6Kc" target="_blank">
